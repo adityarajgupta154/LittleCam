@@ -1,0 +1,1464 @@
+{
+  "zones": [
+    {
+      "name": "Majestic Metro",
+      "lat": 12.9767,
+      "lng": 77.5713,
+      "type": "metro",
+      "multiplier": 1.6,
+      "nearby_hotspots": 31,
+      "nearby_details": [
+        {
+          "hotspot_id": 493,
+          "distance_m": 85,
+          "impact_score": 65.7,
+          "violations": 407,
+          "adjusted_score": 100
+        },
+        {
+          "hotspot_id": 473,
+          "distance_m": 169,
+          "impact_score": 57.0,
+          "violations": 96,
+          "adjusted_score": 91.2
+        },
+        {
+          "hotspot_id": 514,
+          "distance_m": 210,
+          "impact_score": 56.7,
+          "violations": 58,
+          "adjusted_score": 90.7
+        },
+        {
+          "hotspot_id": 494,
+          "distance_m": 303,
+          "impact_score": 52.7,
+          "violations": 130,
+          "adjusted_score": 84.3
+        },
+        {
+          "hotspot_id": 515,
+          "distance_m": 311,
+          "impact_score": 68.4,
+          "violations": 592,
+          "adjusted_score": 100
+        }
+      ],
+      "total_violations_nearby": 16578,
+      "max_adjusted_score": 100
+    },
+    {
+      "name": "Kempegowda Bus Station",
+      "lat": 12.9779,
+      "lng": 77.572,
+      "type": "metro",
+      "multiplier": 1.6,
+      "nearby_hotspots": 33,
+      "nearby_details": [
+        {
+          "hotspot_id": 514,
+          "distance_m": 146,
+          "impact_score": 56.7,
+          "violations": 58,
+          "adjusted_score": 90.7
+        },
+        {
+          "hotspot_id": 493,
+          "distance_m": 151,
+          "impact_score": 65.7,
+          "violations": 407,
+          "adjusted_score": 100
+        },
+        {
+          "hotspot_id": 515,
+          "distance_m": 173,
+          "impact_score": 68.4,
+          "violations": 592,
+          "adjusted_score": 100
+        },
+        {
+          "hotspot_id": 494,
+          "distance_m": 202,
+          "impact_score": 52.7,
+          "violations": 130,
+          "adjusted_score": 84.3
+        },
+        {
+          "hotspot_id": 539,
+          "distance_m": 277,
+          "impact_score": 38.9,
+          "violations": 16,
+          "adjusted_score": 62.2
+        }
+      ],
+      "total_violations_nearby": 16252,
+      "max_adjusted_score": 100
+    },
+    {
+      "name": "KC General Hospital",
+      "lat": 12.985,
+      "lng": 77.578,
+      "type": "hospital",
+      "multiplier": 1.8,
+      "nearby_hotspots": 31,
+      "nearby_details": [
+        {
+          "hotspot_id": 582,
+          "distance_m": 107,
+          "impact_score": 50.4,
+          "violations": 82,
+          "adjusted_score": 90.7
+        },
+        {
+          "hotspot_id": 564,
+          "distance_m": 129,
+          "impact_score": 44.0,
+          "violations": 17,
+          "adjusted_score": 79.2
+        },
+        {
+          "hotspot_id": 563,
+          "distance_m": 179,
+          "impact_score": 53.8,
+          "violations": 124,
+          "adjusted_score": 96.8
+        },
+        {
+          "hotspot_id": 600,
+          "distance_m": 291,
+          "impact_score": 39.7,
+          "violations": 35,
+          "adjusted_score": 71.5
+        },
+        {
+          "hotspot_id": 601,
+          "distance_m": 343,
+          "impact_score": 49.0,
+          "violations": 109,
+          "adjusted_score": 88.2
+        }
+      ],
+      "total_violations_nearby": 11650,
+      "max_adjusted_score": 100
+    },
+    {
+      "name": "Bowring Hospital",
+      "lat": 12.9869,
+      "lng": 77.6043,
+      "type": "hospital",
+      "multiplier": 1.8,
+      "nearby_hotspots": 33,
+      "nearby_details": [
+        {
+          "hotspot_id": 603,
+          "distance_m": 48,
+          "impact_score": 35.5,
+          "violations": 19,
+          "adjusted_score": 63.9
+        },
+        {
+          "hotspot_id": 588,
+          "distance_m": 249,
+          "impact_score": 52.7,
+          "violations": 230,
+          "adjusted_score": 94.9
+        },
+        {
+          "hotspot_id": 602,
+          "distance_m": 265,
+          "impact_score": 23.1,
+          "violations": 16,
+          "adjusted_score": 41.6
+        },
+        {
+          "hotspot_id": 587,
+          "distance_m": 320,
+          "impact_score": 61.4,
+          "violations": 1104,
+          "adjusted_score": 100
+        },
+        {
+          "hotspot_id": 568,
+          "distance_m": 371,
+          "impact_score": 58.9,
+          "violations": 544,
+          "adjusted_score": 100
+        }
+      ],
+      "total_violations_nearby": 10661,
+      "max_adjusted_score": 100
+    },
+    {
+      "name": "Commercial Street",
+      "lat": 12.9822,
+      "lng": 77.6097,
+      "type": "commercial",
+      "multiplier": 1.4,
+      "nearby_hotspots": 32,
+      "nearby_details": [
+        {
+          "hotspot_id": 552,
+          "distance_m": 122,
+          "impact_score": 75.5,
+          "violations": 1346,
+          "adjusted_score": 100
+        },
+        {
+          "hotspot_id": 572,
+          "distance_m": 125,
+          "impact_score": 70.6,
+          "violations": 750,
+          "adjusted_score": 98.8
+        },
+        {
+          "hotspot_id": 571,
+          "distance_m": 132,
+          "impact_score": 67.8,
+          "violations": 496,
+          "adjusted_score": 94.9
+        },
+        {
+          "hotspot_id": 553,
+          "distance_m": 134,
+          "impact_score": 75.8,
+          "violations": 1490,
+          "adjusted_score": 100
+        },
+        {
+          "hotspot_id": 551,
+          "distance_m": 284,
+          "impact_score": 66.2,
+          "violations": 993,
+          "adjusted_score": 92.7
+        }
+      ],
+      "total_violations_nearby": 10161,
+      "max_adjusted_score": 100
+    },
+    {
+      "name": "MG Road Metro",
+      "lat": 12.9756,
+      "lng": 77.6065,
+      "type": "metro",
+      "multiplier": 1.6,
+      "nearby_hotspots": 35,
+      "nearby_details": [
+        {
+          "hotspot_id": 481,
+          "distance_m": 173,
+          "impact_score": 56.9,
+          "violations": 108,
+          "adjusted_score": 91.0
+        },
+        {
+          "hotspot_id": 480,
+          "distance_m": 241,
+          "impact_score": 44.6,
+          "violations": 48,
+          "adjusted_score": 71.4
+        },
+        {
+          "hotspot_id": 482,
+          "distance_m": 264,
+          "impact_score": 46.4,
+          "violations": 15,
+          "adjusted_score": 74.2
+        },
+        {
+          "hotspot_id": 446,
+          "distance_m": 308,
+          "impact_score": 55.8,
+          "violations": 92,
+          "adjusted_score": 89.3
+        },
+        {
+          "hotspot_id": 479,
+          "distance_m": 388,
+          "impact_score": 50.0,
+          "violations": 25,
+          "adjusted_score": 80.0
+        }
+      ],
+      "total_violations_nearby": 9519,
+      "max_adjusted_score": 100
+    },
+    {
+      "name": "KR Market",
+      "lat": 12.9633,
+      "lng": 77.5776,
+      "type": "market",
+      "multiplier": 1.4,
+      "nearby_hotspots": 37,
+      "nearby_details": [
+        {
+          "hotspot_id": 336,
+          "distance_m": 75,
+          "impact_score": 64.9,
+          "violations": 531,
+          "adjusted_score": 90.9
+        },
+        {
+          "hotspot_id": 337,
+          "distance_m": 132,
+          "impact_score": 60.3,
+          "violations": 112,
+          "adjusted_score": 84.4
+        },
+        {
+          "hotspot_id": 361,
+          "distance_m": 159,
+          "impact_score": 72.2,
+          "violations": 1790,
+          "adjusted_score": 100
+        },
+        {
+          "hotspot_id": 362,
+          "distance_m": 182,
+          "impact_score": 67.5,
+          "violations": 466,
+          "adjusted_score": 94.5
+        },
+        {
+          "hotspot_id": 316,
+          "distance_m": 256,
+          "impact_score": 56.5,
+          "violations": 225,
+          "adjusted_score": 79.1
+        }
+      ],
+      "total_violations_nearby": 8360,
+      "max_adjusted_score": 100
+    },
+    {
+      "name": "Victoria Hospital",
+      "lat": 12.9575,
+      "lng": 77.5736,
+      "type": "hospital",
+      "multiplier": 1.8,
+      "nearby_hotspots": 21,
+      "nearby_details": [
+        {
+          "hotspot_id": 278,
+          "distance_m": 173,
+          "impact_score": 35.6,
+          "violations": 40,
+          "adjusted_score": 64.1
+        },
+        {
+          "hotspot_id": 295,
+          "distance_m": 259,
+          "impact_score": 38.7,
+          "violations": 16,
+          "adjusted_score": 69.7
+        },
+        {
+          "hotspot_id": 296,
+          "distance_m": 304,
+          "impact_score": 53.9,
+          "violations": 96,
+          "adjusted_score": 97.0
+        },
+        {
+          "hotspot_id": 279,
+          "distance_m": 413,
+          "impact_score": 44.7,
+          "violations": 79,
+          "adjusted_score": 80.5
+        },
+        {
+          "hotspot_id": 297,
+          "distance_m": 418,
+          "impact_score": 61.8,
+          "violations": 542,
+          "adjusted_score": 100
+        }
+      ],
+      "total_violations_nearby": 4840,
+      "max_adjusted_score": 100
+    },
+    {
+      "name": "Rajajinagar Metro",
+      "lat": 12.9988,
+      "lng": 77.5528,
+      "type": "metro",
+      "multiplier": 1.6,
+      "nearby_hotspots": 30,
+      "nearby_details": [
+        {
+          "hotspot_id": 704,
+          "distance_m": 40,
+          "impact_score": 65.2,
+          "violations": 415,
+          "adjusted_score": 100
+        },
+        {
+          "hotspot_id": 682,
+          "distance_m": 107,
+          "impact_score": 48.5,
+          "violations": 25,
+          "adjusted_score": 77.6
+        },
+        {
+          "hotspot_id": 719,
+          "distance_m": 195,
+          "impact_score": 43.7,
+          "violations": 15,
+          "adjusted_score": 69.9
+        },
+        {
+          "hotspot_id": 703,
+          "distance_m": 241,
+          "impact_score": 61.4,
+          "violations": 299,
+          "adjusted_score": 98.2
+        },
+        {
+          "hotspot_id": 681,
+          "distance_m": 259,
+          "impact_score": 56.2,
+          "violations": 175,
+          "adjusted_score": 89.9
+        }
+      ],
+      "total_violations_nearby": 4571,
+      "max_adjusted_score": 100
+    },
+    {
+      "name": "Brigade Road",
+      "lat": 12.9716,
+      "lng": 77.607,
+      "type": "commercial",
+      "multiplier": 1.4,
+      "nearby_hotspots": 25,
+      "nearby_details": [
+        {
+          "hotspot_id": 419,
+          "distance_m": 141,
+          "impact_score": 59.6,
+          "violations": 226,
+          "adjusted_score": 83.4
+        },
+        {
+          "hotspot_id": 446,
+          "distance_m": 157,
+          "impact_score": 55.8,
+          "violations": 92,
+          "adjusted_score": 78.1
+        },
+        {
+          "hotspot_id": 402,
+          "distance_m": 209,
+          "impact_score": 49.9,
+          "violations": 143,
+          "adjusted_score": 69.9
+        },
+        {
+          "hotspot_id": 447,
+          "distance_m": 303,
+          "impact_score": 49.9,
+          "violations": 26,
+          "adjusted_score": 69.9
+        },
+        {
+          "hotspot_id": 481,
+          "distance_m": 337,
+          "impact_score": 56.9,
+          "violations": 108,
+          "adjusted_score": 79.7
+        }
+      ],
+      "total_violations_nearby": 2373,
+      "max_adjusted_score": 90.9
+    },
+    {
+      "name": "Bishop Cotton School",
+      "lat": 12.9654,
+      "lng": 77.6025,
+      "type": "school",
+      "multiplier": 1.5,
+      "nearby_hotspots": 19,
+      "nearby_details": [
+        {
+          "hotspot_id": 346,
+          "distance_m": 291,
+          "impact_score": 31.3,
+          "violations": 28,
+          "adjusted_score": 47.0
+        },
+        {
+          "hotspot_id": 384,
+          "distance_m": 295,
+          "impact_score": 42.4,
+          "violations": 23,
+          "adjusted_score": 63.6
+        },
+        {
+          "hotspot_id": 400,
+          "distance_m": 387,
+          "impact_score": 40.0,
+          "violations": 26,
+          "adjusted_score": 60.0
+        },
+        {
+          "hotspot_id": 383,
+          "distance_m": 389,
+          "impact_score": 44.1,
+          "violations": 33,
+          "adjusted_score": 66.2
+        },
+        {
+          "hotspot_id": 401,
+          "distance_m": 434,
+          "impact_score": 46.6,
+          "violations": 28,
+          "adjusted_score": 69.9
+        }
+      ],
+      "total_violations_nearby": 1800,
+      "max_adjusted_score": 89.4
+    },
+    {
+      "name": "KR Pura Railway",
+      "lat": 13.0079,
+      "lng": 77.694,
+      "type": "metro",
+      "multiplier": 1.6,
+      "nearby_hotspots": 10,
+      "nearby_details": [
+        {
+          "hotspot_id": 777,
+          "distance_m": 60,
+          "impact_score": 58.8,
+          "violations": 127,
+          "adjusted_score": 94.1
+        },
+        {
+          "hotspot_id": 778,
+          "distance_m": 124,
+          "impact_score": 66.7,
+          "violations": 723,
+          "adjusted_score": 100
+        },
+        {
+          "hotspot_id": 767,
+          "distance_m": 135,
+          "impact_score": 46.4,
+          "violations": 22,
+          "adjusted_score": 74.2
+        },
+        {
+          "hotspot_id": 768,
+          "distance_m": 164,
+          "impact_score": 49.8,
+          "violations": 44,
+          "adjusted_score": 79.7
+        },
+        {
+          "hotspot_id": 779,
+          "distance_m": 307,
+          "impact_score": 55.4,
+          "violations": 140,
+          "adjusted_score": 88.6
+        }
+      ],
+      "total_violations_nearby": 1752,
+      "max_adjusted_score": 100
+    },
+    {
+      "name": "Cubbon Park Metro",
+      "lat": 12.9796,
+      "lng": 77.591,
+      "type": "metro",
+      "multiplier": 1.6,
+      "nearby_hotspots": 18,
+      "nearby_details": [
+        {
+          "hotspot_id": 521,
+          "distance_m": 46,
+          "impact_score": 49.9,
+          "violations": 33,
+          "adjusted_score": 79.8
+        },
+        {
+          "hotspot_id": 522,
+          "distance_m": 157,
+          "impact_score": 51.1,
+          "violations": 39,
+          "adjusted_score": 81.8
+        },
+        {
+          "hotspot_id": 501,
+          "distance_m": 240,
+          "impact_score": 49.5,
+          "violations": 72,
+          "adjusted_score": 79.2
+        },
+        {
+          "hotspot_id": 545,
+          "distance_m": 268,
+          "impact_score": 48.1,
+          "violations": 41,
+          "adjusted_score": 77.0
+        },
+        {
+          "hotspot_id": 544,
+          "distance_m": 315,
+          "impact_score": 51.4,
+          "violations": 68,
+          "adjusted_score": 82.2
+        }
+      ],
+      "total_violations_nearby": 1509,
+      "max_adjusted_score": 90.4
+    },
+    {
+      "name": "Baldwin Schools Area",
+      "lat": 12.9694,
+      "lng": 77.6088,
+      "type": "school",
+      "multiplier": 1.5,
+      "nearby_hotspots": 20,
+      "nearby_details": [
+        {
+          "hotspot_id": 420,
+          "distance_m": 186,
+          "impact_score": 44.0,
+          "violations": 28,
+          "adjusted_score": 66.0
+        },
+        {
+          "hotspot_id": 402,
+          "distance_m": 238,
+          "impact_score": 49.9,
+          "violations": 143,
+          "adjusted_score": 74.8
+        },
+        {
+          "hotspot_id": 419,
+          "distance_m": 245,
+          "impact_score": 59.6,
+          "violations": 226,
+          "adjusted_score": 89.4
+        },
+        {
+          "hotspot_id": 385,
+          "distance_m": 269,
+          "impact_score": 44.0,
+          "violations": 17,
+          "adjusted_score": 66.0
+        },
+        {
+          "hotspot_id": 446,
+          "distance_m": 426,
+          "impact_score": 55.8,
+          "violations": 92,
+          "adjusted_score": 83.7
+        }
+      ],
+      "total_violations_nearby": 1473,
+      "max_adjusted_score": 89.4
+    },
+    {
+      "name": "St. Josephs College",
+      "lat": 12.972,
+      "lng": 77.6005,
+      "type": "school",
+      "multiplier": 1.5,
+      "nearby_hotspots": 21,
+      "nearby_details": [
+        {
+          "hotspot_id": 418,
+          "distance_m": 246,
+          "impact_score": 44.4,
+          "violations": 55,
+          "adjusted_score": 66.6
+        },
+        {
+          "hotspot_id": 417,
+          "distance_m": 332,
+          "impact_score": 53.4,
+          "violations": 397,
+          "adjusted_score": 80.1
+        },
+        {
+          "hotspot_id": 401,
+          "distance_m": 371,
+          "impact_score": 46.6,
+          "violations": 28,
+          "adjusted_score": 69.9
+        },
+        {
+          "hotspot_id": 400,
+          "distance_m": 379,
+          "impact_score": 40.0,
+          "violations": 26,
+          "adjusted_score": 60.0
+        },
+        {
+          "hotspot_id": 479,
+          "distance_m": 420,
+          "impact_score": 50.0,
+          "violations": 25,
+          "adjusted_score": 75.0
+        }
+      ],
+      "total_violations_nearby": 1413,
+      "max_adjusted_score": 89.4
+    },
+    {
+      "name": "Jayanagar 4th Block",
+      "lat": 12.9267,
+      "lng": 77.5838,
+      "type": "commercial",
+      "multiplier": 1.4,
+      "nearby_hotspots": 15,
+      "nearby_details": [
+        {
+          "hotspot_id": 143,
+          "distance_m": 165,
+          "impact_score": 57.1,
+          "violations": 39,
+          "adjusted_score": 79.9
+        },
+        {
+          "hotspot_id": 144,
+          "distance_m": 268,
+          "impact_score": 60.0,
+          "violations": 125,
+          "adjusted_score": 84.0
+        },
+        {
+          "hotspot_id": 153,
+          "distance_m": 277,
+          "impact_score": 58.4,
+          "violations": 68,
+          "adjusted_score": 81.8
+        },
+        {
+          "hotspot_id": 152,
+          "distance_m": 280,
+          "impact_score": 54.3,
+          "violations": 97,
+          "adjusted_score": 76.0
+        },
+        {
+          "hotspot_id": 132,
+          "distance_m": 308,
+          "impact_score": 46.4,
+          "violations": 19,
+          "adjusted_score": 65.0
+        }
+      ],
+      "total_violations_nearby": 1084,
+      "max_adjusted_score": 84.4
+    },
+    {
+      "name": "Marathahalli Bridge",
+      "lat": 12.9568,
+      "lng": 77.7011,
+      "type": "commercial",
+      "multiplier": 1.4,
+      "nearby_hotspots": 10,
+      "nearby_details": [
+        {
+          "hotspot_id": 286,
+          "distance_m": 66,
+          "impact_score": 65.2,
+          "violations": 335,
+          "adjusted_score": 91.3
+        },
+        {
+          "hotspot_id": 285,
+          "distance_m": 196,
+          "impact_score": 51.5,
+          "violations": 17,
+          "adjusted_score": 72.1
+        },
+        {
+          "hotspot_id": 287,
+          "distance_m": 211,
+          "impact_score": 53.9,
+          "violations": 168,
+          "adjusted_score": 75.5
+        },
+        {
+          "hotspot_id": 308,
+          "distance_m": 235,
+          "impact_score": 56.7,
+          "violations": 127,
+          "adjusted_score": 79.4
+        },
+        {
+          "hotspot_id": 331,
+          "distance_m": 468,
+          "impact_score": 54.2,
+          "violations": 72,
+          "adjusted_score": 75.9
+        }
+      ],
+      "total_violations_nearby": 1045,
+      "max_adjusted_score": 91.3
+    },
+    {
+      "name": "Hebbal Flyover",
+      "lat": 13.0358,
+      "lng": 77.597,
+      "type": "commercial",
+      "multiplier": 1.4,
+      "nearby_hotspots": 5,
+      "nearby_details": [
+        {
+          "hotspot_id": 846,
+          "distance_m": 830,
+          "impact_score": 49.9,
+          "violations": 99,
+          "adjusted_score": 69.9
+        },
+        {
+          "hotspot_id": 840,
+          "distance_m": 868,
+          "impact_score": 58.3,
+          "violations": 830,
+          "adjusted_score": 81.6
+        },
+        {
+          "hotspot_id": 850,
+          "distance_m": 888,
+          "impact_score": 45.7,
+          "violations": 32,
+          "adjusted_score": 64.0
+        },
+        {
+          "hotspot_id": 854,
+          "distance_m": 945,
+          "impact_score": 35.9,
+          "violations": 21,
+          "adjusted_score": 50.3
+        },
+        {
+          "hotspot_id": 838,
+          "distance_m": 949,
+          "impact_score": 41.0,
+          "violations": 28,
+          "adjusted_score": 57.4
+        }
+      ],
+      "total_violations_nearby": 1010,
+      "max_adjusted_score": 81.6
+    },
+    {
+      "name": "HSR Layout BDA Complex",
+      "lat": 12.9116,
+      "lng": 77.6389,
+      "type": "commercial",
+      "multiplier": 1.4,
+      "nearby_hotspots": 12,
+      "nearby_details": [
+        {
+          "hotspot_id": 84,
+          "distance_m": 90,
+          "impact_score": 58.2,
+          "violations": 170,
+          "adjusted_score": 81.5
+        },
+        {
+          "hotspot_id": 83,
+          "distance_m": 102,
+          "impact_score": 54.8,
+          "violations": 34,
+          "adjusted_score": 76.7
+        },
+        {
+          "hotspot_id": 97,
+          "distance_m": 114,
+          "impact_score": 56.0,
+          "violations": 71,
+          "adjusted_score": 78.4
+        },
+        {
+          "hotspot_id": 96,
+          "distance_m": 192,
+          "impact_score": 52.8,
+          "violations": 36,
+          "adjusted_score": 73.9
+        },
+        {
+          "hotspot_id": 95,
+          "distance_m": 403,
+          "impact_score": 53.8,
+          "violations": 282,
+          "adjusted_score": 75.3
+        }
+      ],
+      "total_violations_nearby": 961,
+      "max_adjusted_score": 81.5
+    },
+    {
+      "name": "St. Johns Hospital",
+      "lat": 12.9296,
+      "lng": 77.621,
+      "type": "hospital",
+      "multiplier": 1.8,
+      "nearby_hotspots": 7,
+      "nearby_details": [
+        {
+          "hotspot_id": 134,
+          "distance_m": 567,
+          "impact_score": 52.9,
+          "violations": 163,
+          "adjusted_score": 95.2
+        },
+        {
+          "hotspot_id": 186,
+          "distance_m": 738,
+          "impact_score": 43.8,
+          "violations": 67,
+          "adjusted_score": 78.8
+        },
+        {
+          "hotspot_id": 168,
+          "distance_m": 823,
+          "impact_score": 36.7,
+          "violations": 17,
+          "adjusted_score": 66.1
+        },
+        {
+          "hotspot_id": 199,
+          "distance_m": 894,
+          "impact_score": 54.1,
+          "violations": 159,
+          "adjusted_score": 97.4
+        },
+        {
+          "hotspot_id": 185,
+          "distance_m": 912,
+          "impact_score": 53.2,
+          "violations": 191,
+          "adjusted_score": 95.8
+        }
+      ],
+      "total_violations_nearby": 691,
+      "max_adjusted_score": 97.4
+    },
+    {
+      "name": "Koramangala 4th Block",
+      "lat": 12.9352,
+      "lng": 77.6245,
+      "type": "commercial",
+      "multiplier": 1.4,
+      "nearby_hotspots": 8,
+      "nearby_details": [
+        {
+          "hotspot_id": 200,
+          "distance_m": 357,
+          "impact_score": 42.1,
+          "violations": 41,
+          "adjusted_score": 58.9
+        },
+        {
+          "hotspot_id": 214,
+          "distance_m": 472,
+          "impact_score": 33.4,
+          "violations": 18,
+          "adjusted_score": 46.8
+        },
+        {
+          "hotspot_id": 175,
+          "distance_m": 807,
+          "impact_score": 43.3,
+          "violations": 80,
+          "adjusted_score": 60.6
+        },
+        {
+          "hotspot_id": 228,
+          "distance_m": 825,
+          "impact_score": 42.7,
+          "violations": 38,
+          "adjusted_score": 59.8
+        },
+        {
+          "hotspot_id": 199,
+          "distance_m": 882,
+          "impact_score": 54.1,
+          "violations": 159,
+          "adjusted_score": 75.7
+        }
+      ],
+      "total_violations_nearby": 670,
+      "max_adjusted_score": 75.7
+    },
+    {
+      "name": "Indiranagar Metro",
+      "lat": 12.9784,
+      "lng": 77.6408,
+      "type": "metro",
+      "multiplier": 1.6,
+      "nearby_hotspots": 11,
+      "nearby_details": [
+        {
+          "hotspot_id": 531,
+          "distance_m": 33,
+          "impact_score": 55.8,
+          "violations": 73,
+          "adjusted_score": 89.3
+        },
+        {
+          "hotspot_id": 504,
+          "distance_m": 87,
+          "impact_score": 44.2,
+          "violations": 21,
+          "adjusted_score": 70.7
+        },
+        {
+          "hotspot_id": 530,
+          "distance_m": 169,
+          "impact_score": 58.4,
+          "violations": 90,
+          "adjusted_score": 93.4
+        },
+        {
+          "hotspot_id": 503,
+          "distance_m": 208,
+          "impact_score": 39.3,
+          "violations": 31,
+          "adjusted_score": 62.9
+        },
+        {
+          "hotspot_id": 532,
+          "distance_m": 211,
+          "impact_score": 48.0,
+          "violations": 28,
+          "adjusted_score": 76.8
+        }
+      ],
+      "total_violations_nearby": 569,
+      "max_adjusted_score": 93.4
+    },
+    {
+      "name": "National College",
+      "lat": 12.942,
+      "lng": 77.586,
+      "type": "school",
+      "multiplier": 1.5,
+      "nearby_hotspots": 10,
+      "nearby_details": [
+        {
+          "hotspot_id": 223,
+          "distance_m": 119,
+          "impact_score": 35.6,
+          "violations": 15,
+          "adjusted_score": 53.4
+        },
+        {
+          "hotspot_id": 212,
+          "distance_m": 347,
+          "impact_score": 34.7,
+          "violations": 61,
+          "adjusted_score": 52.1
+        },
+        {
+          "hotspot_id": 211,
+          "distance_m": 367,
+          "impact_score": 30.1,
+          "violations": 41,
+          "adjusted_score": 45.2
+        },
+        {
+          "hotspot_id": 194,
+          "distance_m": 540,
+          "impact_score": 45.0,
+          "violations": 203,
+          "adjusted_score": 67.5
+        },
+        {
+          "hotspot_id": 235,
+          "distance_m": 765,
+          "impact_score": 30.1,
+          "violations": 16,
+          "adjusted_score": 45.2
+        }
+      ],
+      "total_violations_nearby": 507,
+      "max_adjusted_score": 67.7
+    },
+    {
+      "name": "Yelachenahalli Metro",
+      "lat": 12.9147,
+      "lng": 77.5731,
+      "type": "metro",
+      "multiplier": 1.6,
+      "nearby_hotspots": 8,
+      "nearby_details": [
+        {
+          "hotspot_id": 103,
+          "distance_m": 89,
+          "impact_score": 45.7,
+          "violations": 27,
+          "adjusted_score": 73.1
+        },
+        {
+          "hotspot_id": 108,
+          "distance_m": 282,
+          "impact_score": 56.4,
+          "violations": 223,
+          "adjusted_score": 90.2
+        },
+        {
+          "hotspot_id": 109,
+          "distance_m": 361,
+          "impact_score": 46.1,
+          "violations": 19,
+          "adjusted_score": 73.8
+        },
+        {
+          "hotspot_id": 77,
+          "distance_m": 403,
+          "impact_score": 46.1,
+          "violations": 62,
+          "adjusted_score": 73.8
+        },
+        {
+          "hotspot_id": 110,
+          "distance_m": 590,
+          "impact_score": 41.3,
+          "violations": 45,
+          "adjusted_score": 66.1
+        }
+      ],
+      "total_violations_nearby": 465,
+      "max_adjusted_score": 90.2
+    },
+    {
+      "name": "Baiyappanahalli Metro",
+      "lat": 12.9902,
+      "lng": 77.6549,
+      "type": "metro",
+      "multiplier": 1.6,
+      "nearby_hotspots": 6,
+      "nearby_details": [
+        {
+          "hotspot_id": 640,
+          "distance_m": 286,
+          "impact_score": 44.0,
+          "violations": 56,
+          "adjusted_score": 70.4
+        },
+        {
+          "hotspot_id": 639,
+          "distance_m": 364,
+          "impact_score": 41.1,
+          "violations": 48,
+          "adjusted_score": 65.8
+        },
+        {
+          "hotspot_id": 670,
+          "distance_m": 552,
+          "impact_score": 37.3,
+          "violations": 19,
+          "adjusted_score": 59.7
+        },
+        {
+          "hotspot_id": 656,
+          "distance_m": 566,
+          "impact_score": 37.5,
+          "violations": 16,
+          "adjusted_score": 60.0
+        },
+        {
+          "hotspot_id": 657,
+          "distance_m": 792,
+          "impact_score": 50.6,
+          "violations": 92,
+          "adjusted_score": 81.0
+        }
+      ],
+      "total_violations_nearby": 323,
+      "max_adjusted_score": 81.0
+    },
+    {
+      "name": "Yeshwanthpur Metro",
+      "lat": 13.0226,
+      "lng": 77.5512,
+      "type": "metro",
+      "multiplier": 1.6,
+      "nearby_hotspots": 7,
+      "nearby_details": [
+        {
+          "hotspot_id": 801,
+          "distance_m": 461,
+          "impact_score": 44.8,
+          "violations": 24,
+          "adjusted_score": 71.7
+        },
+        {
+          "hotspot_id": 815,
+          "distance_m": 531,
+          "impact_score": 36.8,
+          "violations": 16,
+          "adjusted_score": 58.9
+        },
+        {
+          "hotspot_id": 796,
+          "distance_m": 676,
+          "impact_score": 40.7,
+          "violations": 23,
+          "adjusted_score": 65.1
+        },
+        {
+          "hotspot_id": 802,
+          "distance_m": 805,
+          "impact_score": 44.5,
+          "violations": 67,
+          "adjusted_score": 71.2
+        },
+        {
+          "hotspot_id": 819,
+          "distance_m": 870,
+          "impact_score": 45.0,
+          "violations": 24,
+          "adjusted_score": 72.0
+        }
+      ],
+      "total_violations_nearby": 316,
+      "max_adjusted_score": 78.4
+    },
+    {
+      "name": "Silk Board Junction",
+      "lat": 12.9172,
+      "lng": 77.6227,
+      "type": "commercial",
+      "multiplier": 1.4,
+      "nearby_hotspots": 5,
+      "nearby_details": [
+        {
+          "hotspot_id": 122,
+          "distance_m": 420,
+          "impact_score": 45.2,
+          "violations": 28,
+          "adjusted_score": 63.3
+        },
+        {
+          "hotspot_id": 93,
+          "distance_m": 566,
+          "impact_score": 43.9,
+          "violations": 57,
+          "adjusted_score": 61.5
+        },
+        {
+          "hotspot_id": 81,
+          "distance_m": 720,
+          "impact_score": 41.0,
+          "violations": 17,
+          "adjusted_score": 57.4
+        },
+        {
+          "hotspot_id": 82,
+          "distance_m": 777,
+          "impact_score": 45.2,
+          "violations": 37,
+          "adjusted_score": 63.3
+        },
+        {
+          "hotspot_id": 134,
+          "distance_m": 962,
+          "impact_score": 52.9,
+          "violations": 163,
+          "adjusted_score": 74.1
+        }
+      ],
+      "total_violations_nearby": 302,
+      "max_adjusted_score": 74.1
+    },
+    {
+      "name": "JP Nagar",
+      "lat": 12.9073,
+      "lng": 77.5859,
+      "type": "commercial",
+      "multiplier": 1.4,
+      "nearby_hotspots": 10,
+      "nearby_details": [
+        {
+          "hotspot_id": 57,
+          "distance_m": 291,
+          "impact_score": 47.5,
+          "violations": 18,
+          "adjusted_score": 66.5
+        },
+        {
+          "hotspot_id": 79,
+          "distance_m": 378,
+          "impact_score": 44.2,
+          "violations": 23,
+          "adjusted_score": 61.9
+        },
+        {
+          "hotspot_id": 80,
+          "distance_m": 445,
+          "impact_score": 45.1,
+          "violations": 26,
+          "adjusted_score": 63.1
+        },
+        {
+          "hotspot_id": 52,
+          "distance_m": 455,
+          "impact_score": 47.4,
+          "violations": 19,
+          "adjusted_score": 66.4
+        },
+        {
+          "hotspot_id": 64,
+          "distance_m": 550,
+          "impact_score": 43.9,
+          "violations": 22,
+          "adjusted_score": 61.5
+        }
+      ],
+      "total_violations_nearby": 270,
+      "max_adjusted_score": 66.5
+    },
+    {
+      "name": "Nimhans",
+      "lat": 12.9417,
+      "lng": 77.5958,
+      "type": "hospital",
+      "multiplier": 1.8,
+      "nearby_hotspots": 6,
+      "nearby_details": [
+        {
+          "hotspot_id": 237,
+          "distance_m": 361,
+          "impact_score": 35.0,
+          "violations": 15,
+          "adjusted_score": 63.0
+        },
+        {
+          "hotspot_id": 236,
+          "distance_m": 387,
+          "impact_score": 39.0,
+          "violations": 58,
+          "adjusted_score": 70.2
+        },
+        {
+          "hotspot_id": 213,
+          "distance_m": 501,
+          "impact_score": 45.1,
+          "violations": 27,
+          "adjusted_score": 81.2
+        },
+        {
+          "hotspot_id": 242,
+          "distance_m": 813,
+          "impact_score": 42.9,
+          "violations": 53,
+          "adjusted_score": 77.2
+        },
+        {
+          "hotspot_id": 249,
+          "distance_m": 839,
+          "impact_score": 39.9,
+          "violations": 18,
+          "adjusted_score": 71.8
+        }
+      ],
+      "total_violations_nearby": 238,
+      "max_adjusted_score": 81.2
+    },
+    {
+      "name": "Peenya Metro",
+      "lat": 13.0321,
+      "lng": 77.5194,
+      "type": "metro",
+      "multiplier": 1.6,
+      "nearby_hotspots": 2,
+      "nearby_details": [
+        {
+          "hotspot_id": 849,
+          "distance_m": 846,
+          "impact_score": 46.5,
+          "violations": 66,
+          "adjusted_score": 74.4
+        },
+        {
+          "hotspot_id": 853,
+          "distance_m": 910,
+          "impact_score": 46.4,
+          "violations": 56,
+          "adjusted_score": 74.2
+        }
+      ],
+      "total_violations_nearby": 122,
+      "max_adjusted_score": 74.4
+    },
+    {
+      "name": "Banashankari Metro",
+      "lat": 12.9255,
+      "lng": 77.5463,
+      "type": "metro",
+      "multiplier": 1.6,
+      "nearby_hotspots": 1,
+      "nearby_details": [
+        {
+          "hotspot_id": 141,
+          "distance_m": 513,
+          "impact_score": 46.1,
+          "violations": 105,
+          "adjusted_score": 73.8
+        }
+      ],
+      "total_violations_nearby": 105,
+      "max_adjusted_score": 73.8
+    },
+    {
+      "name": "Electronic City",
+      "lat": 12.8456,
+      "lng": 77.6603,
+      "type": "commercial",
+      "multiplier": 1.4,
+      "nearby_hotspots": 2,
+      "nearby_details": [
+        {
+          "hotspot_id": 10,
+          "distance_m": 666,
+          "impact_score": 32.9,
+          "violations": 47,
+          "adjusted_score": 46.1
+        },
+        {
+          "hotspot_id": 11,
+          "distance_m": 989,
+          "impact_score": 41.6,
+          "violations": 27,
+          "adjusted_score": 58.2
+        }
+      ],
+      "total_violations_nearby": 74,
+      "max_adjusted_score": 58.2
+    },
+    {
+      "name": "Whitefield",
+      "lat": 12.9698,
+      "lng": 77.75,
+      "type": "commercial",
+      "multiplier": 1.4,
+      "nearby_hotspots": 1,
+      "nearby_details": [
+        {
+          "hotspot_id": 408,
+          "distance_m": 85,
+          "impact_score": 52.3,
+          "violations": 19,
+          "adjusted_score": 73.2
+        }
+      ],
+      "total_violations_nearby": 19,
+      "max_adjusted_score": 73.2
+    }
+  ],
+  "type_icons": {
+    "metro": "🚇",
+    "hospital": "🏥",
+    "school": "🏫",
+    "commercial": "🏢",
+    "market": "🛒"
+  }
+}

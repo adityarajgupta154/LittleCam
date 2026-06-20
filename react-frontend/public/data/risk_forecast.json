@@ -1,0 +1,4932 @@
+{
+  "forecasts": [
+    {
+      "hotspot_id": 553,
+      "rank": 1,
+      "location": "Kamaraj Road, Sri Nagamma Devi Circle, Sivanchetti Gardens, Bengaluru, Karnat...",
+      "police_station": "Shivajinagar",
+      "impact_score": 75.8,
+      "base_confidence_pct": 69,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 9.8,
+            "risk": "HIGH",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 7.7,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 1.6,
+            "risk": "LOW",
+            "confidence_pct": 69
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 5.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 3.6,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 1.6,
+            "risk": "LOW",
+            "confidence_pct": 69
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 5.8,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 3.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 1.4,
+            "risk": "LOW",
+            "confidence_pct": 69
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 6.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 4.7,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 1.7,
+            "risk": "LOW",
+            "confidence_pct": 69
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 8.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 4.1,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 11.4,
+            "risk": "HIGH",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 8.9,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 3.5,
+            "risk": "LOW",
+            "confidence_pct": 69
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 23.3,
+            "risk": "CRITICAL",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 11.1,
+            "risk": "HIGH",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 1.8,
+            "risk": "LOW",
+            "confidence_pct": 69
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Sun",
+          "daypart": "morning",
+          "predicted": 23.3,
+          "confidence": 69
+        },
+        {
+          "day": "Sat",
+          "daypart": "morning",
+          "predicted": 11.4,
+          "confidence": 69
+        },
+        {
+          "day": "Sun",
+          "daypart": "midday",
+          "predicted": 11.1,
+          "confidence": 69
+        }
+      ],
+      "reasons": [
+        "Near Commercial Street",
+        "WRONG PARKING",
+        "74 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 552,
+      "rank": 2,
+      "location": "Dispensary Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001...",
+      "police_station": "Shivajinagar",
+      "impact_score": 75.5,
+      "base_confidence_pct": 60,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 11.8,
+            "risk": "HIGH",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 8.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 2.5,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 6.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 3.1,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 8.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 6.2,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 7.1,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 4.1,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 2.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 10.7,
+            "risk": "HIGH",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 5.2,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 9.0,
+            "risk": "HIGH",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 6.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 1.2,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 20.7,
+            "risk": "CRITICAL",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 7.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 2.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 2.6,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Sun",
+          "daypart": "morning",
+          "predicted": 20.7,
+          "confidence": 60
+        },
+        {
+          "day": "Mon",
+          "daypart": "morning",
+          "predicted": 11.8,
+          "confidence": 60
+        },
+        {
+          "day": "Fri",
+          "daypart": "morning",
+          "predicted": 10.7,
+          "confidence": 60
+        }
+      ],
+      "reasons": [
+        "Near Commercial Street",
+        "WRONG PARKING",
+        "67 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 361,
+      "rank": 3,
+      "location": "Mysore Road, Sri Krishna Rajendra Market, Chickpete, Bengaluru, Karnataka. Pi...",
+      "police_station": "City Market",
+      "impact_score": 72.2,
+      "base_confidence_pct": 68,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 13.6,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 2.3,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 7.4,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 5.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 2.5,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 7.9,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 9.1,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 5.8,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 2.5,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 8.2,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 15.2,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 4.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 8.8,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 9.9,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 5.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 12.2,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 7.1,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 5.1,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 6.1,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 16.6,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 2.9,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 10.8,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Sun",
+          "daypart": "morning",
+          "predicted": 16.6,
+          "confidence": 68
+        },
+        {
+          "day": "Thu",
+          "daypart": "morning",
+          "predicted": 15.2,
+          "confidence": 68
+        },
+        {
+          "day": "Mon",
+          "daypart": "morning",
+          "predicted": 13.6,
+          "confidence": 68
+        }
+      ],
+      "reasons": [
+        "Near KR Market",
+        "WRONG PARKING",
+        "90 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 572,
+      "rank": 4,
+      "location": "Kamaraj Road, Sri Nagamma Devi Circle, Sivanchetti Gardens, Bengaluru, Karnat...",
+      "police_station": "Shivajinagar",
+      "impact_score": 70.6,
+      "base_confidence_pct": 70,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 8.4,
+            "risk": "CRITICAL",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 6.2,
+            "risk": "CRITICAL",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 70
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 5.0,
+            "risk": "HIGH",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 1.4,
+            "risk": "LOW",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 70
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 5.6,
+            "risk": "HIGH",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 6.9,
+            "risk": "CRITICAL",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 70
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 1.9,
+            "risk": "MEDIUM",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 3.6,
+            "risk": "HIGH",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 2.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 70
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 5.0,
+            "risk": "HIGH",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 3.5,
+            "risk": "HIGH",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 70
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 6.1,
+            "risk": "CRITICAL",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 7.4,
+            "risk": "CRITICAL",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 1.5,
+            "risk": "LOW",
+            "confidence_pct": 70
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 8.1,
+            "risk": "CRITICAL",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 5.8,
+            "risk": "HIGH",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 70
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 3.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 70
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Mon",
+          "daypart": "morning",
+          "predicted": 8.4,
+          "confidence": 70
+        },
+        {
+          "day": "Sun",
+          "daypart": "morning",
+          "predicted": 8.1,
+          "confidence": 70
+        },
+        {
+          "day": "Sat",
+          "daypart": "midday",
+          "predicted": 7.4,
+          "confidence": 70
+        }
+      ],
+      "reasons": [
+        "Near Commercial Street",
+        "NO PARKING",
+        "38 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 212,
+      "rank": 5,
+      "location": "9th Main Road, Block 2, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)",
+      "police_station": "Wilson Garden",
+      "impact_score": 34.7,
+      "base_confidence_pct": 65,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 3.0,
+            "risk": "HIGH",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 4.5,
+            "risk": "CRITICAL",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 6.0,
+            "risk": "CRITICAL",
+            "confidence_pct": 65
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 6.0,
+            "risk": "CRITICAL",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 2.8,
+            "risk": "HIGH",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 5.0,
+            "risk": "CRITICAL",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 2.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 65
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 2.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 65
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Wed",
+          "daypart": "midday",
+          "predicted": 6.0,
+          "confidence": 65
+        },
+        {
+          "day": "Tue",
+          "daypart": "night",
+          "predicted": 6.0,
+          "confidence": 65
+        },
+        {
+          "day": "Thu",
+          "daypart": "evening",
+          "predicted": 5.0,
+          "confidence": 65
+        }
+      ],
+      "reasons": [
+        "WRONG PARKING",
+        "3 violations/week historically"
+      ]
+    },
+    {
+      "hotspot_id": 495,
+      "rank": 6,
+      "location": "Subedar Chatram Road, RK Puram, Gandhi Nagar, Bengaluru, Karnataka. Pin-56000...",
+      "police_station": "Upparpet",
+      "impact_score": 67.6,
+      "base_confidence_pct": 73,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 10.4,
+            "risk": "HIGH",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 5.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 6.8,
+            "risk": "HIGH",
+            "confidence_pct": 73
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 10.0,
+            "risk": "HIGH",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 3.7,
+            "risk": "MEDIUM",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 5.9,
+            "risk": "MEDIUM",
+            "confidence_pct": 73
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 6.1,
+            "risk": "MEDIUM",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 3.0,
+            "risk": "LOW",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 6.9,
+            "risk": "HIGH",
+            "confidence_pct": 73
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 4.4,
+            "risk": "MEDIUM",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 4.9,
+            "risk": "MEDIUM",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 5.9,
+            "risk": "MEDIUM",
+            "confidence_pct": 73
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 8.1,
+            "risk": "HIGH",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 5.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 9.2,
+            "risk": "HIGH",
+            "confidence_pct": 73
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 12.0,
+            "risk": "CRITICAL",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 6.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 16.1,
+            "risk": "CRITICAL",
+            "confidence_pct": 73
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 8.1,
+            "risk": "HIGH",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 6.6,
+            "risk": "HIGH",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 73
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 5.2,
+            "risk": "MEDIUM",
+            "confidence_pct": 73
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Sat",
+          "daypart": "night",
+          "predicted": 16.1,
+          "confidence": 73
+        },
+        {
+          "day": "Sat",
+          "daypart": "morning",
+          "predicted": 12.0,
+          "confidence": 73
+        },
+        {
+          "day": "Mon",
+          "daypart": "morning",
+          "predicted": 10.4,
+          "confidence": 73
+        }
+      ],
+      "reasons": [
+        "Near Kempegowda Bus Station",
+        "WRONG PARKING",
+        "83 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 496,
+      "rank": 7,
+      "location": "5th Main Road, Kempe Gowda Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-56...",
+      "police_station": "Upparpet",
+      "impact_score": 67.1,
+      "base_confidence_pct": 71,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 13.0,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 5.7,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 7.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 71
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 26.0,
+            "risk": "CRITICAL",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 8.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 5.2,
+            "risk": "LOW",
+            "confidence_pct": 71
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 15.7,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 6.1,
+            "risk": "MEDIUM",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 11.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 71
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 30.1,
+            "risk": "CRITICAL",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 5.4,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 11.1,
+            "risk": "MEDIUM",
+            "confidence_pct": 71
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 18.1,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 7.8,
+            "risk": "MEDIUM",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 9.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 71
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 16.6,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 6.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 16.2,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 17.0,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 13.9,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 5.8,
+            "risk": "LOW",
+            "confidence_pct": 71
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Thu",
+          "daypart": "morning",
+          "predicted": 30.1,
+          "confidence": 71
+        },
+        {
+          "day": "Tue",
+          "daypart": "morning",
+          "predicted": 26.0,
+          "confidence": 71
+        },
+        {
+          "day": "Fri",
+          "daypart": "morning",
+          "predicted": 18.1,
+          "confidence": 71
+        }
+      ],
+      "reasons": [
+        "NO PARKING",
+        "149 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 515,
+      "rank": 8,
+      "location": "Major T Ramachandrappa Road, AT Extension, Gandhi Nagar, Bengaluru, Karnataka...",
+      "police_station": "Upparpet",
+      "impact_score": 68.4,
+      "base_confidence_pct": 78,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 2.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 4.3,
+            "risk": "HIGH",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 4.2,
+            "risk": "HIGH",
+            "confidence_pct": 78
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 5.2,
+            "risk": "CRITICAL",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 2.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 5.1,
+            "risk": "HIGH",
+            "confidence_pct": 78
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 2.4,
+            "risk": "MEDIUM",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 3.8,
+            "risk": "HIGH",
+            "confidence_pct": 78
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 6.2,
+            "risk": "CRITICAL",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 2.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 3.8,
+            "risk": "HIGH",
+            "confidence_pct": 78
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 7.4,
+            "risk": "CRITICAL",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 3.5,
+            "risk": "HIGH",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 3.1,
+            "risk": "HIGH",
+            "confidence_pct": 78
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 4.2,
+            "risk": "HIGH",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 2.2,
+            "risk": "MEDIUM",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 2.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 3.7,
+            "risk": "HIGH",
+            "confidence_pct": 78
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 4.6,
+            "risk": "HIGH",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 4.2,
+            "risk": "HIGH",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 2.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 78
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 3.9,
+            "risk": "HIGH",
+            "confidence_pct": 78
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Fri",
+          "daypart": "morning",
+          "predicted": 7.4,
+          "confidence": 78
+        },
+        {
+          "day": "Thu",
+          "daypart": "morning",
+          "predicted": 6.2,
+          "confidence": 78
+        },
+        {
+          "day": "Tue",
+          "daypart": "morning",
+          "predicted": 5.2,
+          "confidence": 78
+        }
+      ],
+      "reasons": [
+        "Near Kempegowda Bus Station",
+        "WRONG PARKING",
+        "30 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 474,
+      "rank": 9,
+      "location": "Major T Ramachandrappa Road, Subash Nagar, Gandhi Nagar, Bengaluru, Karnataka...",
+      "police_station": "Upparpet",
+      "impact_score": 67.2,
+      "base_confidence_pct": 69,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 11.2,
+            "risk": "CRITICAL",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 1.4,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 4.1,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 9.1,
+            "risk": "CRITICAL",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 2.4,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 4.8,
+            "risk": "HIGH",
+            "confidence_pct": 69
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 5.7,
+            "risk": "HIGH",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 2.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 1.6,
+            "risk": "LOW",
+            "confidence_pct": 69
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 6.9,
+            "risk": "HIGH",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 1.5,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 4.8,
+            "risk": "HIGH",
+            "confidence_pct": 69
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 6.1,
+            "risk": "HIGH",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 1.8,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 6.0,
+            "risk": "HIGH",
+            "confidence_pct": 69
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 6.1,
+            "risk": "HIGH",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 2.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 4.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 8.4,
+            "risk": "CRITICAL",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 2.1,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 69
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 3.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 69
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Mon",
+          "daypart": "morning",
+          "predicted": 11.2,
+          "confidence": 69
+        },
+        {
+          "day": "Tue",
+          "daypart": "morning",
+          "predicted": 9.1,
+          "confidence": 69
+        },
+        {
+          "day": "Sun",
+          "daypart": "morning",
+          "predicted": 8.4,
+          "confidence": 69
+        }
+      ],
+      "reasons": [
+        "Near Majestic Metro",
+        "WRONG PARKING",
+        "40 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 48,
+      "rank": 10,
+      "location": "Amrutha College Road, Azalea, Owners Court Layout, Kasavanahalli, Bengaluru, ...",
+      "police_station": "Bellandur",
+      "impact_score": 46.1,
+      "base_confidence_pct": 68,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 4.8,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 2.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 1.7,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 1.8,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 1.3,
+            "risk": "LOW",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 2.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 8.0,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 3.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 2.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 1.5,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 2.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 3.8,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 2.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 11.0,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Sun",
+          "daypart": "night",
+          "predicted": 11.0,
+          "confidence": 68
+        },
+        {
+          "day": "Thu",
+          "daypart": "midday",
+          "predicted": 8.0,
+          "confidence": 68
+        },
+        {
+          "day": "Mon",
+          "daypart": "morning",
+          "predicted": 4.8,
+          "confidence": 68
+        }
+      ],
+      "reasons": [
+        "NO PARKING",
+        "9 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 778,
+      "rank": 11,
+      "location": "MBT Road, Devasandra Junction, KR Puram, Bengaluru, Karnataka. Pin-560036 (In...",
+      "police_station": "K.R. Pura",
+      "impact_score": 66.7,
+      "base_confidence_pct": 60,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 4.7,
+            "risk": "CRITICAL",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 2.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 5.7,
+            "risk": "CRITICAL",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 2.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 3.2,
+            "risk": "HIGH",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 3.0,
+            "risk": "HIGH",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 6.6,
+            "risk": "CRITICAL",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 2.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 5.7,
+            "risk": "CRITICAL",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 4.2,
+            "risk": "HIGH",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 4.9,
+            "risk": "CRITICAL",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 5.8,
+            "risk": "CRITICAL",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 2.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 3.8,
+            "risk": "HIGH",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 6.1,
+            "risk": "CRITICAL",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 3.0,
+            "risk": "HIGH",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 4.2,
+            "risk": "HIGH",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 4.7,
+            "risk": "CRITICAL",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 2.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 2.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 4.2,
+            "risk": "HIGH",
+            "confidence_pct": 60
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Wed",
+          "daypart": "morning",
+          "predicted": 6.6,
+          "confidence": 60
+        },
+        {
+          "day": "Fri",
+          "daypart": "night",
+          "predicted": 6.1,
+          "confidence": 60
+        },
+        {
+          "day": "Thu",
+          "daypart": "night",
+          "predicted": 5.8,
+          "confidence": 60
+        }
+      ],
+      "reasons": [
+        "Near KR Pura Railway",
+        "WRONG PARKING",
+        "36 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 362,
+      "rank": 12,
+      "location": "Silver Jubilee Park Road, Dodpete, Nagartapete, Bengaluru, Karnataka. Pin-560...",
+      "police_station": "City Market",
+      "impact_score": 67.5,
+      "base_confidence_pct": 71,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 3.8,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 4.5,
+            "risk": "CRITICAL",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 5.0,
+            "risk": "CRITICAL",
+            "confidence_pct": 71
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 6.0,
+            "risk": "CRITICAL",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 1.7,
+            "risk": "MEDIUM",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 3.0,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 4.9,
+            "risk": "CRITICAL",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 3.0,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 4.1,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 4.5,
+            "risk": "CRITICAL",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 1.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 4.6,
+            "risk": "CRITICAL",
+            "confidence_pct": 71
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 4.6,
+            "risk": "CRITICAL",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 2.7,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 2.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 71
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 2.6,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 1.4,
+            "risk": "MEDIUM",
+            "confidence_pct": 71
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 3.8,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 3.0,
+            "risk": "HIGH",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 71
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 5.5,
+            "risk": "CRITICAL",
+            "confidence_pct": 71
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Tue",
+          "daypart": "morning",
+          "predicted": 6.0,
+          "confidence": 71
+        },
+        {
+          "day": "Sun",
+          "daypart": "night",
+          "predicted": 5.5,
+          "confidence": 71
+        },
+        {
+          "day": "Mon",
+          "daypart": "night",
+          "predicted": 5.0,
+          "confidence": 71
+        }
+      ],
+      "reasons": [
+        "Near KR Market",
+        "WRONG PARKING",
+        "23 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 551,
+      "rank": 13,
+      "location": "Main Guard Cross Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka. Pin-...",
+      "police_station": "Shivajinagar",
+      "impact_score": 66.2,
+      "base_confidence_pct": 62,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 7.1,
+            "risk": "MEDIUM",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 5.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 4.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 62
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 10.0,
+            "risk": "HIGH",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 3.0,
+            "risk": "LOW",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 18.0,
+            "risk": "CRITICAL",
+            "confidence_pct": 62
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 5.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 9.0,
+            "risk": "HIGH",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 10.5,
+            "risk": "HIGH",
+            "confidence_pct": 62
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 11.2,
+            "risk": "HIGH",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 8.0,
+            "risk": "HIGH",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 3.7,
+            "risk": "MEDIUM",
+            "confidence_pct": 62
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 14.4,
+            "risk": "CRITICAL",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 4.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 3.3,
+            "risk": "LOW",
+            "confidence_pct": 62
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 6.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 9.7,
+            "risk": "HIGH",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 2.2,
+            "risk": "LOW",
+            "confidence_pct": 62
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 12.2,
+            "risk": "HIGH",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 9.3,
+            "risk": "HIGH",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 62
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 2.8,
+            "risk": "LOW",
+            "confidence_pct": 62
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Tue",
+          "daypart": "night",
+          "predicted": 18.0,
+          "confidence": 62
+        },
+        {
+          "day": "Fri",
+          "daypart": "morning",
+          "predicted": 14.4,
+          "confidence": 62
+        },
+        {
+          "day": "Sun",
+          "daypart": "morning",
+          "predicted": 12.2,
+          "confidence": 62
+        }
+      ],
+      "reasons": [
+        "Near Commercial Street",
+        "NO PARKING",
+        "50 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 260,
+      "rank": 14,
+      "location": "Mysore Road, BR Pura, Bengaluru, Karnataka. Pin-560026 (India)",
+      "police_station": "Byatarayanapura",
+      "impact_score": 45.0,
+      "base_confidence_pct": 67,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 1.3,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 3.3,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 4.5,
+            "risk": "LOW",
+            "confidence_pct": 67
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 1.5,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 2.3,
+            "risk": "LOW",
+            "confidence_pct": 67
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 24.0,
+            "risk": "CRITICAL",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 2.7,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 4.5,
+            "risk": "LOW",
+            "confidence_pct": 67
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 3.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 2.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 10.0,
+            "risk": "HIGH",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 2.2,
+            "risk": "LOW",
+            "confidence_pct": 67
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 6.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 67
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 3.6,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 2.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 67
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 6.4,
+            "risk": "MEDIUM",
+            "confidence_pct": 67
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Wed",
+          "daypart": "morning",
+          "predicted": 24.0,
+          "confidence": 67
+        },
+        {
+          "day": "Fri",
+          "daypart": "midday",
+          "predicted": 10.0,
+          "confidence": 67
+        },
+        {
+          "day": "Sun",
+          "daypart": "night",
+          "predicted": 6.4,
+          "confidence": 67
+        }
+      ],
+      "reasons": [
+        "NO PARKING",
+        "12 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 516,
+      "rank": 15,
+      "location": "Subedar Chatram Road, AT Extension, Gandhi Nagar, Bengaluru, Karnataka. Pin-5...",
+      "police_station": "Upparpet",
+      "impact_score": 66.0,
+      "base_confidence_pct": 76,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 8.3,
+            "risk": "CRITICAL",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 5.3,
+            "risk": "HIGH",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 6.0,
+            "risk": "HIGH",
+            "confidence_pct": 76
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 4.8,
+            "risk": "HIGH",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 3.8,
+            "risk": "MEDIUM",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 2.9,
+            "risk": "MEDIUM",
+            "confidence_pct": 76
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 3.4,
+            "risk": "MEDIUM",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 2.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 6.5,
+            "risk": "HIGH",
+            "confidence_pct": 76
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 5.2,
+            "risk": "HIGH",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 2.3,
+            "risk": "LOW",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 5.8,
+            "risk": "HIGH",
+            "confidence_pct": 76
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 5.7,
+            "risk": "HIGH",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 2.4,
+            "risk": "MEDIUM",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 8.2,
+            "risk": "HIGH",
+            "confidence_pct": 76
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 5.4,
+            "risk": "HIGH",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 5.0,
+            "risk": "HIGH",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 4.9,
+            "risk": "HIGH",
+            "confidence_pct": 76
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 11.8,
+            "risk": "CRITICAL",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 3.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 76
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 4.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 76
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Sun",
+          "daypart": "morning",
+          "predicted": 11.8,
+          "confidence": 76
+        },
+        {
+          "day": "Mon",
+          "daypart": "morning",
+          "predicted": 8.3,
+          "confidence": 76
+        },
+        {
+          "day": "Fri",
+          "daypart": "night",
+          "predicted": 8.2,
+          "confidence": 76
+        }
+      ],
+      "reasons": [
+        "Near Kempegowda Bus Station",
+        "WRONG PARKING",
+        "42 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 493,
+      "rank": 16,
+      "location": "Rao Bahadur DGT Road, Majestic Circle, Majestic, Bengaluru, Karnataka. Pin-56...",
+      "police_station": "Chamarajpet",
+      "impact_score": 65.7,
+      "base_confidence_pct": 68,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 7.3,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 3.7,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 3.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 3.8,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 3.7,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 17.5,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 6.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 3.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 6.8,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 2.8,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 1.7,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 13.5,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 8.0,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 4.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 7.2,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 4.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 3.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 1.2,
+            "risk": "LOW",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 7.3,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 3.7,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Tue",
+          "daypart": "night",
+          "predicted": 17.5,
+          "confidence": 68
+        },
+        {
+          "day": "Thu",
+          "daypart": "night",
+          "predicted": 13.5,
+          "confidence": 68
+        },
+        {
+          "day": "Fri",
+          "daypart": "morning",
+          "predicted": 8.0,
+          "confidence": 68
+        }
+      ],
+      "reasons": [
+        "Near Majestic Metro",
+        "NO PARKING",
+        "20 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 570,
+      "rank": 17,
+      "location": "Hospital Cross Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka. Pin-56...",
+      "police_station": "Shivajinagar",
+      "impact_score": 65.5,
+      "base_confidence_pct": 60,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 13.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 14.4,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 13.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 3.5,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 2.2,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 14.8,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 7.2,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 5.1,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 6.3,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 11.2,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 1.8,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 4.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 41.5,
+            "risk": "CRITICAL",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 13.6,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 9.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 8.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 9.9,
+            "risk": "MEDIUM",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 2.0,
+            "risk": "LOW",
+            "confidence_pct": 60
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Fri",
+          "daypart": "night",
+          "predicted": 41.5,
+          "confidence": 60
+        },
+        {
+          "day": "Wed",
+          "daypart": "morning",
+          "predicted": 14.8,
+          "confidence": 60
+        },
+        {
+          "day": "Mon",
+          "daypart": "midday",
+          "predicted": 14.4,
+          "confidence": 60
+        }
+      ],
+      "reasons": [
+        "Near Commercial Street",
+        "WRONG PARKING",
+        "42 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 473,
+      "rank": 18,
+      "location": "Rao Bahadur DGT Road, Cottonpet Circle, Cottonpete, Bengaluru, Karnataka. Pin...",
+      "police_station": "Chamarajpet",
+      "impact_score": 57.0,
+      "base_confidence_pct": 72,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 5.0,
+            "risk": "CRITICAL",
+            "confidence_pct": 72
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 2.0,
+            "risk": "HIGH",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 1.3,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 3.0,
+            "risk": "HIGH",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 3.0,
+            "risk": "HIGH",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 2.0,
+            "risk": "HIGH",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 3.4,
+            "risk": "HIGH",
+            "confidence_pct": 72
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 2.0,
+            "risk": "HIGH",
+            "confidence_pct": 72
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 2.0,
+            "risk": "HIGH",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 2.5,
+            "risk": "HIGH",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 1.7,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 2.3,
+            "risk": "HIGH",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 72
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 2.3,
+            "risk": "HIGH",
+            "confidence_pct": 72
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Tue",
+          "daypart": "night",
+          "predicted": 5.0,
+          "confidence": 72
+        },
+        {
+          "day": "Thu",
+          "daypart": "night",
+          "predicted": 3.4,
+          "confidence": 72
+        },
+        {
+          "day": "Thu",
+          "daypart": "morning",
+          "predicted": 3.0,
+          "confidence": 72
+        }
+      ],
+      "reasons": [
+        "Near Majestic Metro",
+        "WRONG PARKING",
+        "5 violations/week historically"
+      ]
+    },
+    {
+      "hotspot_id": 704,
+      "rank": 19,
+      "location": "80 Feet Ring Road, Navarang Circle, Rajaji Nagar, Bengaluru, Karnataka. Pin-5...",
+      "police_station": "Malleshwaram",
+      "impact_score": 65.2,
+      "base_confidence_pct": 68,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 5.0,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 2.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 8.2,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 6.5,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 3.7,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 7.7,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 2.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 2.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 3.8,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 10.3,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 3.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 2.3,
+            "risk": "LOW",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 5.3,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 3.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 6.5,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 6.2,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 2.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 1.5,
+            "risk": "LOW",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 11.6,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 4.8,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 4.5,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Sun",
+          "daypart": "morning",
+          "predicted": 11.6,
+          "confidence": 68
+        },
+        {
+          "day": "Thu",
+          "daypart": "morning",
+          "predicted": 10.3,
+          "confidence": 68
+        },
+        {
+          "day": "Mon",
+          "daypart": "night",
+          "predicted": 8.2,
+          "confidence": 68
+        }
+      ],
+      "reasons": [
+        "Near Rajajinagar Metro",
+        "WRONG PARKING",
+        "21 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    },
+    {
+      "hotspot_id": 442,
+      "rank": 20,
+      "location": "3rd Cross Road, Kempegowda Extension, Chickpete, Bengaluru, Karnataka. Pin-56...",
+      "police_station": "Upparpet",
+      "impact_score": 64.2,
+      "base_confidence_pct": 68,
+      "heatmap": [
+        [
+          {
+            "day": "Mon",
+            "daypart": "morning",
+            "predicted": 13.9,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "midday",
+            "predicted": 5.0,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Mon",
+            "daypart": "night",
+            "predicted": 12.8,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Tue",
+            "daypart": "morning",
+            "predicted": 13.3,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "midday",
+            "predicted": 8.6,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Tue",
+            "daypart": "night",
+            "predicted": 7.1,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Wed",
+            "daypart": "morning",
+            "predicted": 11.0,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "midday",
+            "predicted": 12.7,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Wed",
+            "daypart": "night",
+            "predicted": 7.4,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Thu",
+            "daypart": "morning",
+            "predicted": 16.8,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "midday",
+            "predicted": 3.3,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Thu",
+            "daypart": "night",
+            "predicted": 12.5,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Fri",
+            "daypart": "morning",
+            "predicted": 11.0,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "midday",
+            "predicted": 6.4,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Fri",
+            "daypart": "night",
+            "predicted": 7.6,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Sat",
+            "daypart": "morning",
+            "predicted": 11.2,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "midday",
+            "predicted": 3.8,
+            "risk": "MEDIUM",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sat",
+            "daypart": "night",
+            "predicted": 7.9,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          }
+        ],
+        [
+          {
+            "day": "Sun",
+            "daypart": "morning",
+            "predicted": 16.7,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "midday",
+            "predicted": 15.3,
+            "risk": "CRITICAL",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "evening",
+            "predicted": 1.0,
+            "risk": "LOW",
+            "confidence_pct": 68
+          },
+          {
+            "day": "Sun",
+            "daypart": "night",
+            "predicted": 9.5,
+            "risk": "HIGH",
+            "confidence_pct": 68
+          }
+        ]
+      ],
+      "peak_windows": [
+        {
+          "day": "Thu",
+          "daypart": "morning",
+          "predicted": 16.8,
+          "confidence": 68
+        },
+        {
+          "day": "Sun",
+          "daypart": "morning",
+          "predicted": 16.7,
+          "confidence": 68
+        },
+        {
+          "day": "Sun",
+          "daypart": "midday",
+          "predicted": 15.3,
+          "confidence": 68
+        }
+      ],
+      "reasons": [
+        "NO PARKING",
+        "93 violations/week historically",
+        "Chronic recurring hotspot"
+      ]
+    }
+  ],
+  "day_labels": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
+  "daypart_labels": [
+    "morning",
+    "midday",
+    "evening",
+    "night"
+  ]
+}

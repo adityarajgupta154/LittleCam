@@ -1,0 +1,40 @@
+{
+  "total_violations_analyzed": 115400,
+  "total_hotspots_detected": 941,
+  "top_10_zones_impact_share_pct": 10.9,
+  "recommended_officers": 30,
+  "projected_improvement_pct": 38.3,
+  "total_violations_prevented_weekly": 422,
+  "date_range": {
+    "start": "2023-11-10",
+    "end": "2024-03-29"
+  },
+  "top_stations": {
+    "Upparpet": 15396,
+    "Shivajinagar": 11021,
+    "Malleshwaram": 8470,
+    "HAL Old Airport": 7743,
+    "Vijayanagara": 6248
+  },
+  "top_violation_types": {
+    "WRONG PARKING": 54057,
+    "NO PARKING": 53675,
+    "PARKING IN A MAIN ROAD": 5793,
+    "PARKING ON FOOTPATH": 818,
+    "DEFECTIVE NUMBER PLATE": 314
+  },
+  "vehicle_category_distribution": {
+    "TWO_WHEELER": 51574,
+    "CAR": 37210,
+    "AUTO": 15007,
+    "HEAVY": 7023,
+    "LCV": 4160,
+    "OTHER": 426
+  },
+  "hotspot_score_stats": {
+    "max": 75.8,
+    "min": 22.8,
+    "mean": 41.8,
+    "median": 40.5
+  }
+}

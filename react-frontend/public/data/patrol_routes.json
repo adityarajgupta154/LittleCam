@@ -1,0 +1,215 @@
+{
+  "teams": [
+    {
+      "team": "Team A",
+      "total_stops": 4,
+      "total_distance_km": 0.74,
+      "total_officers": 8,
+      "coverage_pct": 30.1,
+      "total_impact": 288.1,
+      "stops": [
+        {
+          "order": 1,
+          "hotspot_id": 553,
+          "location": "Kamaraj Road, Sri Nagamma Devi Circle, Sivanchetti Gardens, Bengaluru, Karnat...",
+          "police_station": "Shivajinagar",
+          "impact_score": 75.8,
+          "officers": 2,
+          "shift": "morning",
+          "lat": 12.981167,
+          "lng": 77.610329,
+          "distance_to_next_km": 0.15
+        },
+        {
+          "order": 2,
+          "hotspot_id": 552,
+          "location": "Dispensary Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001...",
+          "police_station": "Shivajinagar",
+          "impact_score": 75.5,
+          "officers": 2,
+          "shift": "morning",
+          "lat": 12.981404,
+          "lng": 77.608922,
+          "distance_to_next_km": 0.18
+        },
+        {
+          "order": 3,
+          "hotspot_id": 551,
+          "location": "Main Guard Cross Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka. Pin-...",
+          "police_station": "Shivajinagar",
+          "impact_score": 66.2,
+          "officers": 2,
+          "shift": "morning",
+          "lat": 12.981177,
+          "lng": 77.607303,
+          "distance_to_next_km": 0.41
+        },
+        {
+          "order": 4,
+          "hotspot_id": 572,
+          "location": "Kamaraj Road, Sri Nagamma Devi Circle, Sivanchetti Gardens, Bengaluru, Karnat...",
+          "police_station": "Shivajinagar",
+          "impact_score": 70.6,
+          "officers": 2,
+          "shift": "morning",
+          "lat": 12.982689,
+          "lng": 77.610742,
+          "distance_to_next_km": 0
+        }
+      ]
+    },
+    {
+      "team": "Team B",
+      "total_stops": 7,
+      "total_distance_km": 2.38,
+      "total_officers": 12,
+      "coverage_pct": 49.8,
+      "total_impact": 476.0,
+      "stops": [
+        {
+          "order": 1,
+          "hotspot_id": 361,
+          "location": "Mysore Road, Sri Krishna Rajendra Market, Chickpete, Bengaluru, Karnataka. Pi...",
+          "police_station": "City Market",
+          "impact_score": 72.2,
+          "officers": 2,
+          "shift": "morning",
+          "lat": 12.96451,
+          "lng": 77.57681,
+          "distance_to_next_km": 0.21
+        },
+        {
+          "order": 2,
+          "hotspot_id": 362,
+          "location": "Silver Jubilee Park Road, Dodpete, Nagartapete, Bengaluru, Karnataka. Pin-560...",
+          "police_station": "City Market",
+          "impact_score": 67.5,
+          "officers": 2,
+          "shift": "morning",
+          "lat": 12.964456,
+          "lng": 77.578793,
+          "distance_to_next_km": 1.27
+        },
+        {
+          "order": 3,
+          "hotspot_id": 474,
+          "location": "Major T Ramachandrappa Road, Subash Nagar, Gandhi Nagar, Bengaluru, Karnataka...",
+          "police_station": "Upparpet",
+          "impact_score": 67.2,
+          "officers": 2,
+          "shift": "morning",
+          "lat": 12.975283,
+          "lng": 77.575193,
+          "distance_to_next_km": 0.22
+        },
+        {
+          "order": 4,
+          "hotspot_id": 495,
+          "location": "Subedar Chatram Road, RK Puram, Gandhi Nagar, Bengaluru, Karnataka. Pin-56000...",
+          "police_station": "Upparpet",
+          "impact_score": 67.6,
+          "officers": 2,
+          "shift": "morning",
+          "lat": 12.977288,
+          "lng": 77.575292,
+          "distance_to_next_km": 0.18
+        },
+        {
+          "order": 5,
+          "hotspot_id": 496,
+          "location": "5th Main Road, Kempe Gowda Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-56...",
+          "police_station": "Upparpet",
+          "impact_score": 67.1,
+          "officers": 2,
+          "shift": "morning",
+          "lat": 12.976958,
+          "lng": 77.576964,
+          "distance_to_next_km": 0.31
+        },
+        {
+          "order": 6,
+          "hotspot_id": 516,
+          "location": "Subedar Chatram Road, AT Extension, Gandhi Nagar, Bengaluru, Karnataka. Pin-5...",
+          "police_station": "Upparpet",
+          "impact_score": 66.0,
+          "officers": 0,
+          "shift": "morning",
+          "lat": 12.979049,
+          "lng": 77.57506,
+          "distance_to_next_km": 0.18
+        },
+        {
+          "order": 7,
+          "hotspot_id": 515,
+          "location": "Major T Ramachandrappa Road, AT Extension, Gandhi Nagar, Bengaluru, Karnataka...",
+          "police_station": "Upparpet",
+          "impact_score": 68.4,
+          "officers": 2,
+          "shift": "morning",
+          "lat": 12.978562,
+          "lng": 77.573445,
+          "distance_to_next_km": 0
+        }
+      ]
+    },
+    {
+      "team": "Team C",
+      "total_stops": 4,
+      "total_distance_km": 32.93,
+      "total_officers": 10,
+      "coverage_pct": 20.1,
+      "total_impact": 192.5,
+      "stops": [
+        {
+          "order": 1,
+          "hotspot_id": 212,
+          "location": "9th Main Road, Block 2, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)",
+          "police_station": "Wilson Garden",
+          "impact_score": 34.7,
+          "officers": 4,
+          "shift": "midday",
+          "lat": 12.939279,
+          "lng": 77.584429,
+          "distance_to_next_km": 4.91
+        },
+        {
+          "order": 2,
+          "hotspot_id": 260,
+          "location": "Mysore Road, BR Pura, Bengaluru, Karnataka. Pin-560026 (India)",
+          "police_station": "Byatarayanapura",
+          "impact_score": 45.0,
+          "officers": 1,
+          "shift": "night",
+          "lat": 12.952481,
+          "lng": 77.541162,
+          "distance_to_next_km": 15.71
+        },
+        {
+          "order": 3,
+          "hotspot_id": 48,
+          "location": "Amrutha College Road, Azalea, Owners Court Layout, Kasavanahalli, Bengaluru, ...",
+          "police_station": "Bellandur",
+          "impact_score": 46.1,
+          "officers": 3,
+          "shift": "midday",
+          "lat": 12.899248,
+          "lng": 77.675424,
+          "distance_to_next_km": 12.3
+        },
+        {
+          "order": 4,
+          "hotspot_id": 778,
+          "location": "MBT Road, Devasandra Junction, KR Puram, Bengaluru, Karnataka. Pin-560036 (In...",
+          "police_station": "K.R. Pura",
+          "impact_score": 66.7,
+          "officers": 2,
+          "shift": "night",
+          "lat": 13.008226,
+          "lng": 77.695097,
+          "distance_to_next_km": 0
+        }
+      ]
+    }
+  ],
+  "total_officers": 30
+}

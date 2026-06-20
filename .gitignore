@@ -1,0 +1,10 @@
+*.csv
+node_modules/
+data/processed/
+package-lock.json
+explore_data.py
+analyze_unused.py
+get_sizes.py
+test_nav.js
+allfileshas.txt
+.pytest_cache/

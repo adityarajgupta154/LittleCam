@@ -1,0 +1,242 @@
+[
+  {
+    "hotspot_id": 553,
+    "location": "Kamaraj Road, Sri Nagamma Devi Circle, Sivanchetti Gardens, Bengaluru, Karnat...",
+    "police_station": "Shivajinagar",
+    "before": {
+      "illegal_vehicles_per_week": 74,
+      "estimated_capacity_loss_pct": 24.2,
+      "impact_score": 75.8,
+      "dominant_violation": "WRONG PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 30,
+      "recovered_capacity_pct": 14.5,
+      "estimated_improvement_pct": 45.5
+    }
+  },
+  {
+    "hotspot_id": 552,
+    "location": "Dispensary Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka. Pin-560001...",
+    "police_station": "Shivajinagar",
+    "before": {
+      "illegal_vehicles_per_week": 67,
+      "estimated_capacity_loss_pct": 19.4,
+      "impact_score": 75.5,
+      "dominant_violation": "WRONG PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 27,
+      "recovered_capacity_pct": 11.6,
+      "estimated_improvement_pct": 45.3
+    }
+  },
+  {
+    "hotspot_id": 361,
+    "location": "Mysore Road, Sri Krishna Rajendra Market, Chickpete, Bengaluru, Karnataka. Pi...",
+    "police_station": "City Market",
+    "before": {
+      "illegal_vehicles_per_week": 90,
+      "estimated_capacity_loss_pct": 21.3,
+      "impact_score": 72.2,
+      "dominant_violation": "WRONG PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 36,
+      "recovered_capacity_pct": 12.8,
+      "estimated_improvement_pct": 43.3
+    }
+  },
+  {
+    "hotspot_id": 572,
+    "location": "Kamaraj Road, Sri Nagamma Devi Circle, Sivanchetti Gardens, Bengaluru, Karnat...",
+    "police_station": "Shivajinagar",
+    "before": {
+      "illegal_vehicles_per_week": 38,
+      "estimated_capacity_loss_pct": 9.8,
+      "impact_score": 70.6,
+      "dominant_violation": "NO PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 15,
+      "recovered_capacity_pct": 5.9,
+      "estimated_improvement_pct": 42.4
+    }
+  },
+  {
+    "hotspot_id": 212,
+    "location": "9th Main Road, Block 2, Jayanagar East, Bengaluru, Karnataka. Pin-560011 (India)",
+    "police_station": "Wilson Garden",
+    "before": {
+      "illegal_vehicles_per_week": 3,
+      "estimated_capacity_loss_pct": 0.6,
+      "impact_score": 34.7,
+      "dominant_violation": "WRONG PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 1,
+      "recovered_capacity_pct": 0.4,
+      "estimated_improvement_pct": 20.8
+    }
+  },
+  {
+    "hotspot_id": 495,
+    "location": "Subedar Chatram Road, RK Puram, Gandhi Nagar, Bengaluru, Karnataka. Pin-56000...",
+    "police_station": "Upparpet",
+    "before": {
+      "illegal_vehicles_per_week": 83,
+      "estimated_capacity_loss_pct": 24.7,
+      "impact_score": 67.6,
+      "dominant_violation": "WRONG PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 33,
+      "recovered_capacity_pct": 14.8,
+      "estimated_improvement_pct": 40.6
+    }
+  },
+  {
+    "hotspot_id": 496,
+    "location": "5th Main Road, Kempe Gowda Circle, Gandhi Nagar, Bengaluru, Karnataka. Pin-56...",
+    "police_station": "Upparpet",
+    "before": {
+      "illegal_vehicles_per_week": 149,
+      "estimated_capacity_loss_pct": 39.1,
+      "impact_score": 67.1,
+      "dominant_violation": "NO PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 60,
+      "recovered_capacity_pct": 23.5,
+      "estimated_improvement_pct": 40.3
+    }
+  },
+  {
+    "hotspot_id": 515,
+    "location": "Major T Ramachandrappa Road, AT Extension, Gandhi Nagar, Bengaluru, Karnataka...",
+    "police_station": "Upparpet",
+    "before": {
+      "illegal_vehicles_per_week": 30,
+      "estimated_capacity_loss_pct": 12.3,
+      "impact_score": 68.4,
+      "dominant_violation": "WRONG PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 12,
+      "recovered_capacity_pct": 7.4,
+      "estimated_improvement_pct": 41.0
+    }
+  },
+  {
+    "hotspot_id": 474,
+    "location": "Major T Ramachandrappa Road, Subash Nagar, Gandhi Nagar, Bengaluru, Karnataka...",
+    "police_station": "Upparpet",
+    "before": {
+      "illegal_vehicles_per_week": 40,
+      "estimated_capacity_loss_pct": 14.6,
+      "impact_score": 67.2,
+      "dominant_violation": "WRONG PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 16,
+      "recovered_capacity_pct": 8.8,
+      "estimated_improvement_pct": 40.3
+    }
+  },
+  {
+    "hotspot_id": 48,
+    "location": "Amrutha College Road, Azalea, Owners Court Layout, Kasavanahalli, Bengaluru, ...",
+    "police_station": "Bellandur",
+    "before": {
+      "illegal_vehicles_per_week": 9,
+      "estimated_capacity_loss_pct": 2.4,
+      "impact_score": 46.1,
+      "dominant_violation": "NO PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 4,
+      "recovered_capacity_pct": 1.4,
+      "estimated_improvement_pct": 27.7
+    }
+  },
+  {
+    "hotspot_id": 778,
+    "location": "MBT Road, Devasandra Junction, KR Puram, Bengaluru, Karnataka. Pin-560036 (In...",
+    "police_station": "K.R. Pura",
+    "before": {
+      "illegal_vehicles_per_week": 36,
+      "estimated_capacity_loss_pct": 10.3,
+      "impact_score": 66.7,
+      "dominant_violation": "WRONG PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 14,
+      "recovered_capacity_pct": 6.2,
+      "estimated_improvement_pct": 40.0
+    }
+  },
+  {
+    "hotspot_id": 362,
+    "location": "Silver Jubilee Park Road, Dodpete, Nagartapete, Bengaluru, Karnataka. Pin-560...",
+    "police_station": "City Market",
+    "before": {
+      "illegal_vehicles_per_week": 23,
+      "estimated_capacity_loss_pct": 7.5,
+      "impact_score": 67.5,
+      "dominant_violation": "WRONG PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 9,
+      "recovered_capacity_pct": 4.5,
+      "estimated_improvement_pct": 40.5
+    }
+  },
+  {
+    "hotspot_id": 551,
+    "location": "Main Guard Cross Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka. Pin-...",
+    "police_station": "Shivajinagar",
+    "before": {
+      "illegal_vehicles_per_week": 50,
+      "estimated_capacity_loss_pct": 10.9,
+      "impact_score": 66.2,
+      "dominant_violation": "NO PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 20,
+      "recovered_capacity_pct": 6.5,
+      "estimated_improvement_pct": 39.7
+    }
+  },
+  {
+    "hotspot_id": 260,
+    "location": "Mysore Road, BR Pura, Bengaluru, Karnataka. Pin-560026 (India)",
+    "police_station": "Byatarayanapura",
+    "before": {
+      "illegal_vehicles_per_week": 12,
+      "estimated_capacity_loss_pct": 3.1,
+      "impact_score": 45.0,
+      "dominant_violation": "NO PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 5,
+      "recovered_capacity_pct": 1.9,
+      "estimated_improvement_pct": 27.0
+    }
+  },
+  {
+    "hotspot_id": 516,
+    "location": "Subedar Chatram Road, AT Extension, Gandhi Nagar, Bengaluru, Karnataka. Pin-5...",
+    "police_station": "Upparpet",
+    "before": {
+      "illegal_vehicles_per_week": 42,
+      "estimated_capacity_loss_pct": 15.4,
+      "impact_score": 66.0,
+      "dominant_violation": "WRONG PARKING"
+    },
+    "after": {
+      "expected_violations_per_week": 17,
+      "recovered_capacity_pct": 9.2,
+      "estimated_improvement_pct": 39.6
+    }
+  }
+]

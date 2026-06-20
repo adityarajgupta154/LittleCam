@@ -1,0 +1,89 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+/* LittleCam Enterprise Design System */
+:root {
+  --bg: #F8FAFC;
+  --surface: #FFFFFF;
+  --border: #E5E7EB;
+  --border-strong: #D1D5DB;
+  --primary: #0F4C81;
+  --primary-light: #EAF4FF;
+  --text: #111827;
+  --text-secondary: #64748B;
+  --warning: #F59E0B;
+  --danger: #DC2626;
+  --success: #16A34A;
+  --accent: #FF9933;
+}
+
+.dark {
+  --bg: #020617;
+  --surface: #0F172A;
+  --border: #1E293B;
+  --border-strong: #334155;
+  --primary: #38BDF8;
+  --primary-light: #0C4A6E;
+  --text: #F8FAFC;
+  --text-secondary: #94A3B8;
+  --warning: #FBBF24;
+  --danger: #F87171;
+  --success: #4ADE80;
+  --accent: #FF9933;
+}
+
+/* GLOBAL: Zero border-radius, no shadows */
+*,
+*::before,
+*::after {
+  border-radius: 0 !important;
+}
+
+/* Remove all box-shadows globally */
+.shadow-sm, .shadow, .shadow-md, .shadow-lg, .shadow-xl, .shadow-2xl {
+  box-shadow: none !important;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Enterprise scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F1F5F9;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+/* Base styles for legacy elements */
+.view {
+  display: none;
+}
+.view.active {
+  display: flex;
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Recharts tooltip override for light theme */
+.recharts-default-tooltip {
+  background-color: #FFFFFF !important;
+  border: 1px solid #E5E7EB !important;
+  color: #111827 !important;
+}
